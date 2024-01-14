@@ -1,0 +1,15 @@
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/DemoConsoleApp.deps.json
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/DemoConsoleApp.runtimeconfig.json
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/DemoConsoleApp.runtimeconfig.dev.json
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/DemoConsoleApp.dll
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/ref/DemoConsoleApp.dll
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/bin/Debug/net5.0/DemoConsoleApp.pdb
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.csproj.AssemblyReference.cache
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.AssemblyInfoInputs.cache
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.AssemblyInfo.cs
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.csproj.CoreCompileInputs.cache
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.dll
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/ref/DemoConsoleApp.dll
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.pdb
+/Users/codespace/Desktop/Justin - Personal/c#/code-monkey-cs-intro/DemoConsoleApp/DemoConsoleApp/obj/Debug/net5.0/DemoConsoleApp.genruntimeconfig.cache
